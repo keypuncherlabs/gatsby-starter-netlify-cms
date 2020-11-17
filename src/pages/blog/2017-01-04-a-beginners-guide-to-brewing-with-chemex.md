@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Running around and having fun!
 date: 2017-01-04T15:04:10.000Z
 description: Tech is great and so are CMS solutions.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/chemex.jpg
 tags:
   - brewing
